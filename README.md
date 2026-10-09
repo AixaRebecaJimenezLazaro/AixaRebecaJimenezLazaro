@@ -4,7 +4,7 @@ Desarrolladora web y móvil que disfruta resolver problemas reales y armar proye
 ## Sobre mí
 - 🎓 Estudiante de Ingeniería en Sistemas.
 - 💻 Desarrolladora con perfil full-stack web y móvil.
-- 🔬 Experiencia en proyectos de desarrollo web, desarrollo móvil y proyectos de equipo (SafeStep, ComuniKids, páginas web, Huron.Byte;, etc.).
+- 🔬 Experiencia en proyectos de desarrollo web, desarrollo móvil y proyectos de equipo (SafeStep, ComuniKids, páginas web promocioneles, Huron.Byte;, etc.).
 - ☕ Me gusta el café, la programación y el aprendizaje constante.
 - 🧩 Me gustan los cubos Rubik.
 
